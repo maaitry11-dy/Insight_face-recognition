@@ -1,4 +1,4 @@
-# \# 🎥 InsightFace Face Recognition \& Attendance Tracking
+# \# 🎥 InsightFace Face Recognition 
 
 # 
 
